@@ -104,6 +104,9 @@ Tebriz, şairlerin ebedi istirahatgahıdır. 800 yılı aşkın bir süredir 400
 
 Tebriz, Doğu'nun en rafine müzik geleneklerinden biri olan **Azerbaycan Muğamı** ve halkın kalbinin attığı **Aşık Gelenekleri**'nin merkezidir. Ses, burada sadece bir melodi değil, ruhun sonsuzluğa açılan kapısıdır.
 
+### 🎶 Tebriz Türküleri ve Halk Ezgileri
+Tebriz'in dar sokaklarından yükselen "Küçelere Su Sepmişem"den "Sarı Gelin"e kadar uzanan o derin halk ezgileri, bu toprakların ortak vicdanıdır. Her bir türkü, bir hasretin veya bir kahramanlığın notalara dökülmüş halidir.
+
 ---
 
 ## 🥘 IX. Bölüm: Tebriz Mutfak Kültürü (Gastronomi)
