@@ -1,7 +1,6 @@
 # 💎 Firuze-i Tebriz: Medeniyetin Turkuaz Hafıza Mimarisi
 
-![Tebriz Banner](https://images.unsplash.com/photo-1541410965313-d53b3c16ef17?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80) 
-*(Not: Bu görsel Tebriz'in ruhunu temsil eden bir temsilidir)*
+![Firuze-i Tebriz Banner](assets/banner.png) 
 
 > "Anladım ki, insanı insan yapan aradığı şeydir. Tebriz; arayanların, yananların ve küllerinden yeniden doğanların şehridir." — **Şems-i Tebrizi**
 
