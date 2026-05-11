@@ -9,6 +9,8 @@
 
 **Firuze-i Tebriz**, alelade bir veri deposu veya sıradan bir açık kaynak projesi değildir. Bu repo; zamanın ve mekânın ötesine geçmeye çalışan **ontolojik bir feryat**, binlerce yıllık Türk-İslam medeniyetinin varoluşsal sancılarını dijital bir hafızaya nakşetme girişimidir. Bu depo, toprağın altına gömülmek istenen bir dilin, yıkılmaya yüz tutmuş turkuaz çinilerin ve unutulmuş şairlerin **GitHub** sunucularındaki ölümsüzlük arayışıdır.
 
+> *"Tebriz, dünyada eşi benzeri olmayan bir şehirdir; toprağı amber kokulu, suyu hayat pınarıdır."* — **Katran Tebrizi**
+
 ---
 
 ## 🏛️ Mukaddime: Bir Şehrin Ontolojik Portresi
@@ -33,7 +35,9 @@ Tebriz'de kelimeler, bir kılıç kadar keskin, bir ipek kadar yumuşaktır. Teb
 Bir dilin, bir kültürün yok olma tehlikesine karşı bir şairin tek başına nasıl kalkan olabileceğinin en büyük kanıtı Şehriyar'dır. Onun *Heydar Baba'ya Selam* şiiri, sadece edebi bir eser değil, sosyolojik bir manifestodur. Bu arşiv, Şehriyar'ın "Türk'ün Dili" şiirindeki o derin kökleri koruma altına almaktadır.
 
 ### 💎 Saib-i Tebrizi ve Hikmet Geleneği
-17. yüzyılın en büyük düşünür ve şairlerinden Saib-i Tebrizi, "Sebk-i Hindi" akımının zirvesidir. Aklı ve duyguyu birleştiren o muazzam üslubuyla, sadece şiir değil, bir hayat felsefesi inşa etmiştir. Bu arşvde, Saib'in o ince felsefi dokunuşlarını dijital çağın insanına yeniden fısıldamaktayız.
+17. yüzyılın en büyük düşünür ve şairlerinden Saib-i Tebrizi, "Sebk-i Hindi" akımının zirvesidir. Aklı ve duyguyu birleştiren o muazzam üslubuyla, sadece şiir değil, bir hayat felsefesi inşa etmiştir. Bu arşivde, Saib'in o ince felsefi dokunuşlarını dijital çağın insanına yeniden fısıldamaktayız.
+
+> *"Gönül yıkmak, Kabe'yi yetmiş kez yıkmaktan daha günahtır; zira Kabe'yi İbrahim, gönlü ise Allah yapmıştır."*
 
 ---
 
@@ -61,7 +65,36 @@ Tebriz her zaman direnişin kalesidir. 1905-1911 İran Meşrutiyet Devrimi'nde t
 
 ---
 
-## 📁 V. Ontolojik Klasör Mimarisi (Repo Yapısı)
+## 🌍 V. Bölüm: Seyyahların ve Tarihin Tanıklığında Tebriz
+
+Tebriz, yüzyıllar boyunca doğu ile batı arasındaki en büyük ticaret ve kültür köprüsü olmuştur. Dünyaca ünlü seyyahların notlarında Tebriz şöyle anlatılır:
+
+- **Marco Polo (1271):** *"Tebriz, öyle büyük ve asil bir şehirdir ki, orada dünyanın her yerinden tüccarlar ve mallar bulursunuz. Buranın halkı, ipek ve altın dokumacılığında eşsizdir."*
+- **İbn Battuta (1327):** *"Dünyanın en güzel çarşılarından biri olan Tebriz çarşısına girdim. Her bir zanaat dalı için ayrı bir bölge tahsis edilmişti. Gördüğüm mücevherler karşısında gözlerim kamaştı."*
+- **Jean Chardin (17. yy):** *"Tebriz, Pers İmparatorluğu'nun en kudretli şehri ve Asya'nın en önemli ticaret merkezidir."*
+
+---
+
+## 🏆 VI. Bölüm: Şehirlerin İlki (Firsts of Tabriz)
+
+Tebriz, yeniliğin ve öncülüğün merkezidir. Tarihte birçok "ilk" bu topraklarda filizlenmiştir:
+- **Matbaa:** İran'daki ilk modern matbaa (1811) burada kuruldu.
+- **Modern Eğitim:** İlk modern okul (Anjoman) ve ilk sağırlar/dilsizler okulu Tebriz'dedir.
+- **Demokrasi:** İlk belediye (Encümen) ve anayasal hareketin merkezi.
+- **İtfaiye ve Posta:** İlk modern itfaiye teşkilatı ve düzenli posta servisi.
+
+---
+
+## 🪦 VII. Bölüm: Şairler Mezarlığı (Maqbaratoshoara)
+
+Tebriz, şairlerin ebedi istirahatgahıdır. 800 yılı aşkın bir süredir 400'den fazla şair, arif ve edip bu toprağa emanet edilmiştir.
+- **Hakanî-i Şirvânî**, **Esedî Tûsî**, **Katran Tebrizî** ve son olarak **Üstad Şehriyar**, bu anıt mezarlıkta yan yana uyurlar. Tebriz, şiirin sadece okunduğu değil, yaşandığı ve gömüldüğü bir şehirdir.
+
+---
+
+---
+
+## 📁 VIII. Ontolojik Klasör Mimarisi (Repo Yapısı)
 
 Bu kod deposunun her bir klasörü, bir dervişin hücresi, bir şairin divanıdır:
 
@@ -83,7 +116,7 @@ Firuze-i-Tebriz/
 
 ---
 
-## 🚀 VI. Dijital Egemenlik ve Katkı Çağrısı
+## 🚀 IX. Dijital Egemenlik ve Katkı Çağrısı
 
 Burası sadece bir yazılım projesi değil; yıkılmış, yağmalanmış ve unutturulmaya çalışılmış bir kültürün **dijital direniş hattıdır**. Bizim için her bir commit, bir taşın yerine konmasıdır.
 
@@ -96,5 +129,7 @@ Burası sadece bir yazılım projesi değil; yıkılmış, yağmalanmış ve unu
 
 ---
 
-**Firuze-i Tebriz Dijital Hafıza Mimarisi | Sürüm: Sonsuzluk (v1.1.0)**
+**Firuze-i Tebriz Dijital Hafıza Mimarisi | Sürüm: Sonsuzluk (v1.2.0)**
 *Mescid-i Kebud'un gölgesinde, dijital çağın ortasında, hürriyet aşkıyla inşa edilmiştir.*
+
+> *"Gidersen Tebriz'e, selam söyle o toprağa, o taşa... Orada her zerre bir tarihtir, her nefes bir şiir."*
