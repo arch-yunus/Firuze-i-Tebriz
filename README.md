@@ -91,9 +91,22 @@ Tebriz, şairlerin ebedi istirahatgahıdır. 800 yılı aşkın bir süredir 400
 
 ---
 
+## 🎶 VIII. Bölüm: Tebriz Musikisi ve Makamın Sırrı
+
+Tebriz, Doğu'nun en rafine müzik geleneklerinden biri olan **Azerbaycan Muğamı** ve halkın kalbinin attığı **Aşık Gelenekleri**'nin merkezidir. Ses, burada sadece bir melodi değil, ruhun sonsuzluğa açılan kapısıdır.
+
+### 🎻 Muğam: Manevi Bir Yolculuk
+UNESCO Somut Olmayan Kültürel Miras listesinde yer alan Muğam, klasik şiir (gazel) ile müziğin en üst düzeydeki sentezidir. 
+- **Makamlar:** Rast, Şur, Segah gibi temel makamlar, dinleyiciyi farklı ruh hallerinden geçirerek bir nevi mistik arınma (katarsis) yaşatır.
+- **Tebriz Okulu:** Tebrizli hanendeler (okuyucular), muğamı daha vakur ve hüzünlü bir üslupla yorumlarlar.
+
+### 🪕 Aşık Geleneği ve Kopuzun Sesi
+Tebriz'in köylerinden meydanlarına kadar yankılanan saz (kopuz) ve söz, halkın ortak hafızasıdır. Aşıklar, kahramanlık destanlarından ilahi aşka kadar her şeyi tellere dökerler.
+- **Gurbani ve Hasta Kasım:** Tebriz'in yetiştirdiği efsanevi aşıklar, şiirleri ve ezgileriyle bu topraklarda hala yaşamaktadırlar.
+
 ---
 
-## 📁 VIII. Ontolojik Klasör Mimarisi (Repo Yapısı)
+## 📁 IX. Ontolojik Klasör Mimarisi (Repo Yapısı)
 
 Bu kod deposunun her bir klasörü, bir dervişin hücresi, bir şairin divanıdır:
 
@@ -110,12 +123,13 @@ Firuze-i-Tebriz/
 ├── 05_kamus-u-ebedi/         # Tebriz Türkçesine özgü etimolojik sözlük ve dil bilimi
 ├── 06_sanat-i-nakkaş/        # Tebriz minyatür okulu, halıcılık ve desen algoritmaları
 ├── 07_stratejik-projeksiyonlar # Tebriz'in bölgesel geleceği ve kültürel diplomasi vizyonu
+├── 08_tebriz-musikisi        # Muğam sanatı, Aşık geleneği ve enstrüman arşivi
 └── README.md                 # Okumakta olduğunuz bu medeniyet manifestosu
 ```
 
 ---
 
-## 🚀 IX. Dijital Egemenlik ve Katkı Çağrısı
+## 🚀 X. Dijital Egemenlik ve Katkı Çağrısı
 
 Burası sadece bir yazılım projesi değil; yıkılmış, yağmalanmış ve unutturulmaya çalışılmış bir kültürün **dijital direniş hattıdır**. Bizim için her bir commit, bir taşın yerine konmasıdır.
 
@@ -123,12 +137,12 @@ Burası sadece bir yazılım projesi değil; yıkılmış, yağmalanmış ve unu
 
 ### Nasıl Katkıda Bulunabilirsiniz?
 - **Veri Madenciliği:** Eski el yazmalarından, tozlu mektuplardan dijital aktarım yapabilirsiniz.
-- **Görsel Arşiv:** Tebriz'in estetik mirasına dair yüksek kaliteli görsel veri sağlayabilirsiniz.
+- **Görsel Arşiv:** Tebriz'in estetik mirasısına dair yüksek kaliteli görsel veri sağlayabilirsiniz.
 - **Etimolojik Katkı:** Unutulmaya yüz tutmuş Tebriz Türkçesi kelimelerini `05_kamus-u-ebedi` dizinine ekleyebilirsiniz.
 
 ---
 
-**Firuze-i Tebriz Dijital Hafıza Mimarisi | Sürüm: Sonsuzluk (v1.2.0)**
+**Firuze-i Tebriz Dijital Hafıza Mimarisi | Sürüm: Sonsuzluk (v1.3.0)**
 *Mescid-i Kebud'un gölgesinde, dijital çağın ortasında, hürriyet aşkıyla inşa edilmiştir.*
 
-> *"Gidersen Tebriz'e, selam söyle o toprağa, o taşa... Orada her zerre bir tarihtir, her nefes bir şiir."*
+> *"Gidersen Tebriz'e, selam söyle o toprağa, o taşa... Orada her zerre bir tarihtir, her nefes bir şiir, her ses bir muğamdır."*
