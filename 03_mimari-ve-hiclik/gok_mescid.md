@@ -1,11 +1,21 @@
-# Mescid-i Kebud (Gök Mescid)
+# Mescid-i Kebud: İslam'ın Firuzesi
 
-"İslam'ın Firuzesi" olarak adlandırılan bu yapı, 1465 yılında Cihan Şah tarafından inşa edilmiştir.
+1465 yılında Karakoyunlu Hükümdarı Cihan Şah tarafından eşi Hatun Can Begüm adına yaptırılan Gök Mescid (Blue Mosque), Türk-İslam mimarisinde çini sanatının ulaştığı en yüksek noktadır.
 
-## Mimari Özellikler
+## Çini Sanatının Zirvesi
+Mescidin "Gök" (Kebud) olarak anılmasının sebebi, tüm yüzeyini kaplayan eşsiz mavi tonlarındaki çinilerdir.
+- **Renk Paleti:** Kobalt mavisi, turkuaz, lacivert ve altın varaklı hat yazıları.
+- **Teknik:** "Mozaik çini" tekniği ile binlerce parça el ile birleştirilerek devasa geometrik desenler oluşturulmuştur.
 
-- **Çini İşçiliği:** Turkuaz ve kobalt mavisinin en derin tonları kullanılmıştır.
-- **Geometri:** Sonsuzluğu simgeleyen iç içe geçmiş desenler.
-- **Hüzün:** 1780 depreminde büyük bir kısmı yıkılmış olsa da, kalan çiniler bile estetiğin zirvesini temsil eder.
+### Geometrik Tevhid
+Mescidin kubbe ve duvarlarındaki desenler, İslam estetiğindeki "Kesret içinde Vahdet" (Çoklukta Birlik) ilkesini yansıtır. Her bir motif, evrensel bir düzenin parçasıdır.
 
-Bu mescid, Tebriz'in ruhu gibi yaralı ama muazzamdır.
+## 1780 Depremi ve Restorasyon
+Büyük Tebriz depreminde yapının büyük bir kısmı yıkılmıştır. Bugün ayakta kalan kısımlar, bir yıkıntının içinden bile nasıl bir estetik dehanın fışkırabileceğinin kanıtıdır. 
+
+---
+
+### Teknik Detaylar (Restoratör Notları)
+Mescidin çinilerindeki "Tebriz Mavisi", o dönemdeki özel bir pişirme tekniği ve mineral karışımı ile elde edilmiştir. Bu rengin dijital replikasyonu için yapılan renk analizleri şöyledir:
+- **Hex Code (Turquoise):** #00CED1
+- **Hex Code (Cobalt Blue):** #0047AB
