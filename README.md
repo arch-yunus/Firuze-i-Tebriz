@@ -95,18 +95,15 @@ Tebriz, şairlerin ebedi istirahatgahıdır. 800 yılı aşkın bir süredir 400
 
 Tebriz, Doğu'nun en rafine müzik geleneklerinden biri olan **Azerbaycan Muğamı** ve halkın kalbinin attığı **Aşık Gelenekleri**'nin merkezidir. Ses, burada sadece bir melodi değil, ruhun sonsuzluğa açılan kapısıdır.
 
-### 🎻 Muğam: Manevi Bir Yolculuk
-UNESCO Somut Olmayan Kültürel Miras listesinde yer alan Muğam, klasik şiir (gazel) ile müziğin en üst düzeydeki sentezidir. 
-- **Makamlar:** Rast, Şur, Segah gibi temel makamlar, dinleyiciyi farklı ruh hallerinden geçirerek bir nevi mistik arınma (katarsis) yaşatır.
-- **Tebriz Okulu:** Tebrizli hanendeler (okuyucular), muğamı daha vakur ve hüzünlü bir üslupla yorumlarlar.
+---
 
-### 🪕 Aşık Geleneği ve Kopuzun Sesi
-Tebriz'in köylerinden meydanlarına kadar yankılanan saz (kopuz) ve söz, halkın ortak hafızasıdır. Aşıklar, kahramanlık destanlarından ilahi aşka kadar her şeyi tellere dökerler.
-- **Gurbani ve Hasta Kasım:** Tebriz'in yetiştirdiği efsanevi aşıklar, şiirleri ve ezgileriyle bu topraklarda hala yaşamaktadırlar.
+## 🥘 IX. Bölüm: Tebriz Mutfak Kültürü (Gastronomi)
+
+Tebriz mutfağı, bir mühendislik ve estetik harikasıdır. Dünyaca ünlü **Tebriz Köftesi**, sadece bir yemek değil, şehrin cömertliğinin ve zenginliğinin bir göstergesidir. İpek Yolu'nun getirdiği baharatlar, yerel otlarla birleşerek Tebriz sofralarında bir lezzet senfonisine dönüşür.
 
 ---
 
-## 📁 IX. Ontolojik Klasör Mimarisi (Repo Yapısı)
+## 📁 X. Ontolojik Klasör Mimarisi (Repo Yapısı)
 
 Bu kod deposunun her bir klasörü, bir dervişin hücresi, bir şairin divanıdır:
 
@@ -114,35 +111,27 @@ Bu kod deposunun her bir klasörü, bir dervişin hücresi, bir şairin divanıd
 Firuze-i-Tebriz/
 ├── 01_makalat-i-sems/        # Şems-i Tebrizi'nin mistik öğretileri ve İşraki felsefesi
 ├── 02_divan-i-husran/        # Tebrizli şairlerin (Şehriyar, Saib, Pervin Etesami) divanları
-│   ├── heyder_baba.md        # Şehriyar'ın başyapıtının tam metni ve ontolojik analizi
-│   └── sebek-i-hindi.md      # Hint Üslubu ve kavramsal şiir geleneği
 ├── 03_mimari-ve-hiclik/      # Gök Mescid'in geometrisi ve Ark kalesinin tarihi dokusu
-│   ├── gok_mescid_cinileri/  # Görsel veri tabanı ve turkuaz renk paletleri
-│   └── pazar_sosyolojisi.md  # Dünyanın en büyük kapalı çarşısının sosyal dinamikleri
 ├── 04_hurriyet-kivilcimlari/ # Meşrutiyet Devrimi, Sattar Han ve tarihi direniş belgeleri
 ├── 05_kamus-u-ebedi/         # Tebriz Türkçesine özgü etimolojik sözlük ve dil bilimi
 ├── 06_sanat-i-nakkaş/        # Tebriz minyatür okulu, halıcılık ve desen algoritmaları
 ├── 07_stratejik-projeksiyonlar # Tebriz'in bölgesel geleceği ve kültürel diplomasi vizyonu
 ├── 08_tebriz-musikisi        # Muğam sanatı, Aşık geleneği ve enstrüman arşivi
+├── 09_tebriz-mutfagi        # Gastronomi ontolojisi ve ünlü lezzetler kataloğu
 └── README.md                 # Okumakta olduğunuz bu medeniyet manifestosu
 ```
 
 ---
 
-## 🚀 X. Dijital Egemenlik ve Katkı Çağrısı
+## 🚀 XI. Dijital Egemenlik ve Katkı Çağrısı
 
 Burası sadece bir yazılım projesi değil; yıkılmış, yağmalanmış ve unutturulmaya çalışılmış bir kültürün **dijital direniş hattıdır**. Bizim için her bir commit, bir taşın yerine konmasıdır.
 
 > "Söz uçup rüzgâra karışır, taş aşınıp kuma döner, ancak kodlanan ve paylaşılan hafıza ebediyete kadar yaşar."
 
-### Nasıl Katkıda Bulunabilirsiniz?
-- **Veri Madenciliği:** Eski el yazmalarından, tozlu mektuplardan dijital aktarım yapabilirsiniz.
-- **Görsel Arşiv:** Tebriz'in estetik mirasısına dair yüksek kaliteli görsel veri sağlayabilirsiniz.
-- **Etimolojik Katkı:** Unutulmaya yüz tutmuş Tebriz Türkçesi kelimelerini `05_kamus-u-ebedi` dizinine ekleyebilirsiniz.
-
 ---
 
-**Firuze-i Tebriz Dijital Hafıza Mimarisi | Sürüm: Sonsuzluk (v1.3.0)**
+**Firuze-i Tebriz Dijital Hafıza Mimarisi | Sürüm: Sonsuzluk (v1.4.0)**
 *Mescid-i Kebud'un gölgesinde, dijital çağın ortasında, hürriyet aşkıyla inşa edilmiştir.*
 
-> *"Gidersen Tebriz'e, selam söyle o toprağa, o taşa... Orada her zerre bir tarihtir, her nefes bir şiir, her ses bir muğamdır."*
+> *"Gidersen Tebriz'e, selam söyle o toprağa, o taşa... Orada her zerre bir tarihtir, her nefes bir şiir, her ses bir muğam, her sofra bir berekettir."*
