@@ -18,5 +18,11 @@
 ### İşraki Felsefe ile Bağlantı
 Şems-i Tebrizi'nin düşünceleri, Şahabettin Sühreverdi'nin (Maktul) "İşrakilik" (Işık Felsefesi) ekolüyle derin paralellikler taşır. Tebriz, bu ışık felsefesinin coğrafi ve manevi merkezidir.
 
+## Mülakat-ı Şeyheyn: Şems ve Mevlana Buluşması
+1244 yılında Konya'da gerçekleşen tarihi buluşma, sadece iki mutasavvıfın bir araya gelmesi değil, İslam düşünce tarihinde aklın ve aşkın en büyük çarpışmasıdır. Şems, Mevlana'nın kitaplarını suya atarak ona kağıtların ötesindeki hakikati göstermiştir. Bu "Mülakat", Mevlana'yı bir fıkıh aliminden cihanşümul bir aşk şairine dönüştürmüştür.
+
+## Şems'in Ebedi İstirahatgâhı: Hoy Şems-i Tebrizi Türbesi
+Şems'in Konya'dan ani ayrılışından sonra nerede sır olduğu uzun süre tartışılmıştır. Ancak tarihi vesikalar ve Tebriz kültür hafızası, onun Tebriz yakınlarındaki **Hoy** şehrine döndüğünü ve orada vefat ettiğini doğrular. Bugün Hoy'da bulunan *Şems-i Tebrizi Minaresi*, onun ebedi sessizliğinin ve bu coğrafyadaki sarsılmaz izinin en büyük kanıtıdır.
+
 > [!TIP]
-> Makalat metinlerini okurken, kelimelerin literal anlamlarından ziyade, onların işaret ettiği "batıni" derinliklere odaklanmak gerekir.
+> Makalat metinlerini okurken, kelimelerin literal anlamlarından ziyade, onların işaret ettiği "batıni" derinliklere odaklanmak gerekir. Şems, konuşan bir derviş değil, muhatabını sarsarak uyandıran manevi bir fırtınadır.

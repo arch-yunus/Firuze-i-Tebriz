@@ -31,10 +31,19 @@
 
 **Analiz:** Burada şair, Platon'a (Eflatun) kadar uzanan bir bilgelik zinciriyle dünyanın "fani" olduğunu haykırır. Tebriz'in o vakur ve hüzünlü bilgeliği bu mısralarda kristalize olur.
 
+### IV. Bent: Kadim Adetler ve Çocukluk Neşesi
+> Bayram idi, gece kuşu okurdu,
+> Adaklı kız, bey çorabı dokurdu,
+> Herkes şalını bir bacadan sokurdu,
+> Ay ne güzel kaydıdır (geleneğidir) şal sallamak,
+> Bey şalına bayramlığını bağlamak.
+
+**Analiz:** Şair, Tebriz ve çevresinde yaygın olan eski bir bayram geleneğini (şal sallama/baca adetini) anlatır. Gençlerin evlerin bacalarından şal sallayarak bayramlık istemesi, toplumsal dayanışmanın ve çocuksu saflığın en güzel ifadesidir. Bu bent, köyün antropolojik hafızasını korumaya alır.
+
 ---
 
 ## Eserin Dilsel Önemi
-Şehriyar, bu şiiriyle o dönem baskı altında olan ve unutulmaya yüz tutan "Tebriz Türkçesi"ni (Azerbaycan Türkçesi) yeniden edebiyatın merkezine taşımıştır. Kelimeler sadece ses değil, birer direniş sembolüdür.
+Şehriyar, bu şiiriyle o dönem baskı altında olan ve unutulmaya yüz tutan "Tebriz Türkçesi"ni (Azerbaycan Türkçesi) yeniden edebiyatın merkezine taşımıştır. Kelimeler sadece ses değil, birer direniş sembolüdür. Şiirin fonetik yapısı, Azerbaycan Türkçesinin müzikalitesini ve aruzdan heceye geçişteki lirik zenginliği sergiler.
 
 > [!NOTE]
-> Heyder Baba'ya Selam, bugün tüm Türk dünyasında ezbere bilinen ve halkın ortak vicdanını temsil eden bir "Milli Epope" niteliğindedir.
+> Heyder Baba'ya Selam, bugün tüm Türk dünyasında ezbere bilinen ve halkın ortak vicdanını temsil eden bir "Milli Epope" niteliğindedir. Eser, 80'den fazla dile ve diyalekte çevrilerek dünya edebiyatındaki yerini almıştır.
