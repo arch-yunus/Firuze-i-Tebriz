@@ -13,7 +13,21 @@ Muğam, Azerbaycan ve Tebriz kültürünün en derin manevi katmanıdır. Klasik
 7. **Bayatı-Şiraz:** Aşk acısı ve ayrılığın melankolik tınısı.
 
 ## Muğam İcrasının Yapısal Katmanları (Düsturu)
+
 Bir muğam icrası, rastgele bir doğaçlama değil, matematiksel ve şiirsel bir mimariye sahiptir. İcra şu bölümlerden oluşur:
+
+```mermaid
+graph TD
+    A["Dəraməd (Enstrümantal Giriş / Ağır Ritim)"] --> B["Bərdast (Doğaçlama Açılış / Ritsiz)"]
+    B --> C["Mayə (Makamın Ana Gövdesi / Merkez)"]
+    C --> D["Şöbe & Guşe (Melodik Modüller ve Geçişler)"]
+    D --> E["Təsnif (Ritmik Gazel / Sözlü Bölüm)"]
+    E --> F["Rəng (Hareketli Enstrümantal Dans Geçişi)"]
+    
+    style A fill:#f4f6f7,stroke:#2c3e50,stroke-width:1px
+    style F fill:#f4f6f7,stroke:#2c3e50,stroke-width:1px
+```
+
 - **Dəraməd (Daramad):** Muğamın giriş kısmıdır. Enstrümantal, ritmik ve ağır bir tempoyla icra edilir. Dinleyiciyi makamın atmosferine hazırlar.
 - **Bərdast (Bardast):** Hanendenin (okuyucunun) veya enstrümanın makamın ana perdesine ulaştığı, tempodan bağımsız ilk serbest açılış (doğaçlama) adımıdır.
 - **Mayə (Maye):** Makamın merkez noktasıdır. Melodinin en karakteristik hüviyetini kazandığı, sözün ve sazın birbirine kenetlendiği bölümdür.
@@ -21,8 +35,13 @@ Bir muğam icrası, rastgele bir doğaçlama değil, matematiksel ve şiirsel bi
 - **Təsnif (Tasnif):** Hanende tarafından seslendirilen ritmik, lirik halk şarkısı veya gazel formundaki ezgilerdir.
 - **Rəng (Rang):** Şubeler arasında icra edilen, ritmik ve hareketli enstrümantal dans müzikleridir. Dinleyicinin zihnini rahatlatır ve bir sonraki şubeye hazırlar.
 
-### Tebriz Okulu ve Hanendelik
+### Tebriz Okulu, Hanendelik ve Özel Ses Teknikleri
 Tebrizli hanendeler, muğamı seslendirirken "Gazel" sanatına büyük önem verirler. Şehriyar, Saib ve Fuzuli'nin mısraları, muğamın kanatlarında semaya yükselir. Hanende, şiirin vezni (aruz) ile muğamın ritimsiz doğaçlamasını (avaz) muazzam bir dengeyle birleştirir.
+
+Tebriz Muğam Okulu'nu diğer sahalardan ayıran en belirgin nitelik, icracıların kullandığı **kendine has ses süsleme ve hanendelik teknikleridir**:
+- **Zengüle (Zangule):** Seste son derece hızlı, dalgalı ve kontrollü gırtlak hareketleriyle yapılan melodik süslemelerdir (doğu trili).
+- **Boğaz Zangırdatması:** Ses telleri ile gırtlak kaslarının uyumuyla oluşturulan ve özellikle feryat/avaz bölümlerinde dramatik kederi artıran gırtlaksı vibrato tekniğidir.
+- **Pes Melodik Düşüşler:** Hanendenin tiz perdeden aniden pes perdeye yumuşak bir kayma ile inerek esere kat kattığı derinlik ve lirik dinginliktir.
 
 ## Enstrümanlar (Muğam Üçlüsü)
 - **Tar:** Göğse yaslanan, dut ağacından oyulmuş, 11 telli "ruhun sesi". İpek telleriyle muğamın melodik iskeletini kurar.

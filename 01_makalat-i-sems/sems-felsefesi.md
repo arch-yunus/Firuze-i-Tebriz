@@ -18,6 +18,31 @@
 ### İşraki Felsefe ile Bağlantı
 Şems-i Tebrizi'nin düşünceleri, Şahabettin Sühreverdi'nin (Maktul) "İşrakilik" (Işık Felsefesi) ekolüyle derin paralellikler taşır. Tebriz, bu ışık felsefesinin coğrafi ve manevi merkezidir.
 
+## Şems'in Seyr ü Sülûk Tasavvuru: Dört Kapı
+
+Şems-i Tebrizi'nin "Makalat"ında bahsettiği manevi yükseliş ve kemalat yolculuğu, tasavvufun kadim "Dört Kapı Kırk Makam" öğretisiyle şekillenir. İnsanın hamlıktan olgunluğa geçiş süreci şu evrelerle şematize edilebilir:
+
+```mermaid
+graph TD
+    A["Şeriat (Dış Kabuk - Form)"] -->|Uyum ve Disiplin| B["Tarikat (Yolculuk - Arayış)"]
+    B -->|İçsel Keşif ve Sezgi| C["Marifet (Derin Bilgi - İdrak)"]
+    C -->|Birlik ve Fena| D["Hakikat (Vuslat - Mutlak Gerçek)"]
+    
+    style A fill:#e6f2ff,stroke:#0066cc,stroke-width:2px
+    style B fill:#eafaf1,stroke:#2ecc71,stroke-width:2px
+    style C fill:#fef9e7,stroke:#f1c40f,stroke-width:2px
+    style D fill:#f5eef8,stroke:#9b59b6,stroke-width:2px
+```
+
+- **Şeriat Kapısı:** Kurallar, formlar ve dışsal ibadetler. Hakikatin en dıştaki koruyucu kabuğudur.
+- **Tarikat Kapısı:** Bir rehber eşliğinde içsel yolculuğa çıkış. Kabuğu kırıp öze doğru yürümektir.
+- **Marifet Kapısı:** Aklın ötesinde, kalbi bir sezgiyle ilahi sırları idrak etme hali.
+- **Hakikat Kapısı:** Benliğin (nefsin) tamamen ortadan kalktığı ve mutlak varlıkta yok olunduğu (fena fillah) zirve noktası.
+
+Şems'e göre, Şeriat kapısında takılıp kalanlar "kağıt üstündeki dervişler"dir. Asıl amaç, bu kapılardan geçerek Hakikat'in turkuaz ışığına ulaşmaktır.
+
+---
+
 ## Mülakat-ı Şeyheyn: Şems ve Mevlana Buluşması
 1244 yılında Konya'da gerçekleşen tarihi buluşma, sadece iki mutasavvıfın bir araya gelmesi değil, İslam düşünce tarihinde aklın ve aşkın en büyük çarpışmasıdır. Şems, Mevlana'nın kitaplarını suya atarak ona kağıtların ötesindeki hakikati göstermiştir. Bu "Mülakat", Mevlana'yı bir fıkıh aliminden cihanşümul bir aşk şairine dönüştürmüştür.
 

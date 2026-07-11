@@ -22,7 +22,16 @@ Meşrutiyet Devrimi'nin hemen ardından İran'ın ilk resmi belediye teşkilatı
 Tebriz'de kurulan ilk yangın söndürme teşkilatı, Rusya sınırına yakınlığı ve çarşının korunması amacıyla inşa edilmiştir:
 - **Yangın Kulesi (Yangi Kulesi):** Bugün hala ayakta olan 23 metre yüksekliğindeki tuğla Yangın Kulesi, şehrin güvenliğini izlemek için kullanılırdı. Kulede sürekli nöbet tutan gözetlemeciler, duman gördükleri yöne doğru pirinç zillerle itfaiyeyi yönlendirirdi.
 
-## 6. Diğer Medeni İlkler
+## 6. İlk Modern Sinema (Soltani Sineması) (1916)
+İran'ın ilk halka açık modern sinema salonlarından biri olan "Soltani Sineması" Tebriz'de açılmıştır. Batı dünyasındaki sinema teknolojisini ülkeye getiren bu girişim, sivil kültürün ve görsel belleğin uyanışında önemli rol oynamıştır.
+
+## 7. İlk Modern Park ve Rekreasyon Alanı (El-Gölü / Şah-Gölü)
+Tebriz'in simgesi olan El-Gölü (halk adıyla Goli Bağ), yapay gölü ve merkezindeki tarihi köşküyle bölgenin ilk planlı, halka açık büyük rekreasyon ve yeşil alan projesidir. Safevi döneminde kurulan su depolama havuzu, Kaçar döneminde modern bir mesire alanına dönüştürülmüştür.
+
+## 8. İlk Ticaret Odası (Oda-yı Ticaret) (1911)
+İpek Yolu'nun kalbindeki Tebrizli tüccarların haklarını korumak, uluslararası ticari anlaşmaları koordine etmek ve piyasayı düzenlemek amacıyla kurulan ilk modern Ticaret Odası, Meşrutiyet'in hemen ardından Tebriz'de kurulmuştur.
+
+## 9. Diğer Medeni İlkler
 - **İlk Modern Tiyatro:** İlk batılı tiyatro oyunları ve sahne sanatları Tebriz'de sergilenmiştir.
 - **İlk Kartografya:** Haritacılık ve modern coğrafya çalışmaları burada başlamıştır.
 - **İlk Kamu Kütüphanesi:** Halka açık ilk modern kütüphane Tebriz Encümeni tarafından kurulmuştur.
